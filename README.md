@@ -1,4 +1,4 @@
-# Data-Mining-Problems
-This repo contains code to solve problems in data mining that are intereting to me.
+# Coding Problems
+This repo contains code to solve problems that are interesting to me.
 
 HAC.py: performs hierarchical agglomerative clustering on a set of data points
